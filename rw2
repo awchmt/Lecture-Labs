@@ -1,0 +1,1 @@
+Using pgAdmin I added augur as the user with encrypted pass and added the schemas to the augur database and created the tables in those schemas
