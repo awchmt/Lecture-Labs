@@ -25,19 +25,14 @@
       iv. Remove photos
       v. Controls editors and journalists
 # Other Users
-   1. Web Users
-    a. Functional requirements
+##   1. Web Users
+###    a. Functional requirements
       i. Search by upload date
       ii. Keywords search
       iii. Photographer search
       iv. links to articles associated with the image
       v. adding favorite images
 # System Requirements
-  1. Disk storage
-  2. Web interface
-  3. Database
-# Functional Requirements
-  1. Search by upload date
-  2. Keywords search
-  3. Photographer search
-  4. Links to articles associated with the image
+##  1. Disk storage
+##  2. Web interface
+##  3. Database
