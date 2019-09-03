@@ -1,6 +1,6 @@
 # Stakeholders:
-  1. Photographer
-    a. Functional Requirements 
+##  1. Photographer
+###    a. Functional Requirements 
       i. View income on photos
       ii. View contributions and asscoisated documents
   2. Editor
