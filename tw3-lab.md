@@ -3,28 +3,28 @@
 ###    a. Functional Requirements 
       i. View income on photos
       ii. View contributions and asscoisated documents
-  2. Editor
-    a. Functional Requirements 
+##  2. Editor
+###    a. Functional Requirements 
       i. Edit links associated to photos
       ii. Edit photos in planned posts
       iii. Edit the keywords
-  3. Journalists
-    a. Functional Requirements 
+##  3. Journalists
+###    a. Functional Requirements 
       i. Edit links associated to photos
       ii. Edit photos in planned posts
       iii. Edit the keywords
-   4. Newspaper company
-    a. Functional Requirements
+##   4. Newspaper company
+###    a. Functional Requirements
       i. Remove photos
       ii. Controls editors and journalists
-   5. Sysadmin
-     a. Functional requirements
+##   5. Sysadmin
+###     a. Functional requirements
       i. Edit links associated to photos
       ii. Edit photos in planned posts
       iii. Edit the keywords
       iv. Remove photos
       v. Controls editors and journalists
-#Other Users
+# Other Users
    1. Web Users
     a. Functional requirements
       i. Search by upload date
